@@ -1,0 +1,53 @@
+body {
+    background-color:aliceblue;
+    padding: 0;
+}
+
+h1{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    
+}
+
+
+    
+img-container {
+ 
+    float: left;
+    padding-left: 10px;
+    
+    
+}
+
+h2{
+    font-size: 70px;
+    margin-top: 1px;
+    margin-bottom: 5px;
+}
+
+p{
+    font-size: 30px;
+    margin-bottom: 5px;
+    margin-top: 1px;
+} 
+
+h2,p{
+    padding-left: 300px;
+}
+   
+ 
+button {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 20px;
+    margin-left: 350px;
+    border-color: white;
+    background-color:black;
+    color: white;
+    
+   
+}
